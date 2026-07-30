@@ -1,16 +1,35 @@
-## Hi there 👋
+## About
 
-<!--
-**rulm0000/rulm0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Public health researcher working across nutrition, tobacco, and health policy. Most of what you'll find here is replication code for peer-reviewed studies: randomized trials, national survey epidemiology, evidence synthesis, and cost analyses.
 
-Here are some ideas to get you started:
+## What's in my repos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Randomized trials and experiments
+
+**[swaps](https://github.com/rulm0000/swaps)** (Stata). Replication pipeline for a food-swap RCT. Participant characteristics, primary treatment effects, moderation analyses, Bonferroni-Holm corrected p-values, effects by food group, and ClinicalTrials.gov reporting exports.
+
+**[social_media_wl](https://github.com/rulm0000/social_media_wl)** (Stata). Social media warning label trial. Mixed-effects models of perceived message effectiveness and awareness by warning topic, carryover sensitivity, moderator analyses, and CONSORT counts, plus a secondary study comparing AI-generated with human-selected priority messages.
+
+### Survey epidemiology (BRFSS)
+
+**[Smoking-Prevalence-Analysis-2018-2024](https://github.com/rulm0000/Smoking-Prevalence-Analysis-2018-2024)** (SAS, Stata, Python). Urban-rural differences in adult smoking prevalence, 2018-2024. Survey-weighted logistic and GEE models for all 50 states plus nationwide, simple slopes for significant year-by-rurality interactions, predicted probability panels, and choropleth maps.
+
+**[mastersthesis](https://github.com/rulm0000/mastersthesis)** (Python). Master's thesis analysis of pooled BRFSS data: weighted descriptive statistics and state-level odds ratio choropleth maps.
+
+### Evidence synthesis
+
+**[unhealthy-food-umbrella](https://github.com/rulm0000/unhealthy-food-umbrella)** (R, Python). Umbrella review of ultra-processed foods and health outcomes. Sensitivity analyses, heterogeneity assessment, and publication-ready forest plots.
+
+### Health economics
+
+**[Treatment_Survivorship_Costing_CRC](https://github.com/rulm0000/Treatment_Survivorship_Costing_CRC)** (Python). Colorectal cancer treatment and survivorship cost estimation, with weighted averages by age group, race, sex, and stage.
+
+## Methods and tools
+
+Survey-weighted regression, mixed-effects models, GEE and cluster-robust inference, moderation and subgroup analysis, multiple-comparison correction, meta-analysis and heterogeneity assessment, cost estimation, and geospatial visualization.
+
+Stata, SAS, R, and Python (pandas, geopandas, matplotlib, plotly).
+
+## Notes on data
+
+These repositories hold analytic code. Restricted, licensed, or oversized inputs such as raw survey exports, licensed product catalogs, and BRFSS or ACS source files are intentionally excluded; each README documents where to obtain them and how to rebuild the analytic files.
