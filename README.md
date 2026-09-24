@@ -12,12 +12,18 @@ Paper: [Grummon et al., *PLOS Medicine* (2026)](https://doi.org/10.1371/journal.
 **[social_media_wl](https://github.com/rulm0000/social_media_wl)** (Stata). Social media warning label trial. Mixed-effects models of perceived message effectiveness and awareness by warning topic, carryover sensitivity, moderator analyses, and CONSORT counts, plus a secondary study comparing AI-generated with human-selected priority messages.  
 Paper: [Grummon et al., *JAMA Health Forum* (2026)](https://doi.org/10.1001/jamahealthforum.2026.3014)
 
+**[AI_smwl](https://github.com/rulm0000/AI_smwl)** (Stata, Python). Two experiments testing large language models for public health messaging: whether LLM-refined social media warnings are rated as more effective by human participants than researcher-generated ones, and whether LLM-powered AI personas reproduce human participants' responses to warnings. Mixed-effects models of perceived message effectiveness and Cohen's d decomposition.
+
 ### Survey epidemiology (BRFSS)
 
 **[Smoking-Prevalence-Analysis-2018-2024](https://github.com/rulm0000/Smoking-Prevalence-Analysis-2018-2024)** (SAS, Stata, Python). Urban-rural differences in adult smoking prevalence, 2018-2024. Survey-weighted logistic and GEE models for all 50 states plus nationwide, simple slopes for significant year-by-rurality interactions, predicted probability panels, and choropleth maps.  
 Preprint: [Ulm et al., *medRxiv* (2026)](https://doi.org/10.64898/2026.08.06.26359850)
 
 **[mastersthesis](https://github.com/rulm0000/mastersthesis)** (Python). Master's thesis analysis of pooled BRFSS data: weighted descriptive statistics and state-level odds ratio choropleth maps.
+
+### Survey research (policy support)
+
+**[snap-restrictions-support](https://github.com/rulm0000/snap-restrictions-support)** (Stata, Python). Pre-registered analysis of a national household panel survey on support for restricting soda and candy from SNAP purchases. Regression models of psychological factors (perceived health risk, overconsumption, feeling judged, perceived paternalism), SNAP recipient status, and their interactions.
 
 ### Evidence synthesis
 
