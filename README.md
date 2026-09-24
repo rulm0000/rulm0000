@@ -14,7 +14,8 @@ Paper: [Grummon et al., *JAMA Health Forum* (2026)](https://doi.org/10.1001/jama
 
 ### Survey epidemiology (BRFSS)
 
-**[Smoking-Prevalence-Analysis-2018-2024](https://github.com/rulm0000/Smoking-Prevalence-Analysis-2018-2024)** (SAS, Stata, Python). Urban-rural differences in adult smoking prevalence, 2018-2024. Survey-weighted logistic and GEE models for all 50 states plus nationwide, simple slopes for significant year-by-rurality interactions, predicted probability panels, and choropleth maps.
+**[Smoking-Prevalence-Analysis-2018-2024](https://github.com/rulm0000/Smoking-Prevalence-Analysis-2018-2024)** (SAS, Stata, Python). Urban-rural differences in adult smoking prevalence, 2018-2024. Survey-weighted logistic and GEE models for all 50 states plus nationwide, simple slopes for significant year-by-rurality interactions, predicted probability panels, and choropleth maps.  
+Preprint: [Ulm et al., *medRxiv* (2026)](https://doi.org/10.64898/2026.08.06.26359850)
 
 **[mastersthesis](https://github.com/rulm0000/mastersthesis)** (Python). Master's thesis analysis of pooled BRFSS data: weighted descriptive statistics and state-level odds ratio choropleth maps.
 
