@@ -6,9 +6,11 @@ Public health researcher working across nutrition, tobacco, and health policy. M
 
 ### Randomized trials and experiments
 
-**[swaps](https://github.com/rulm0000/swaps)** (Stata). Replication pipeline for a food-swap RCT. Participant characteristics, primary treatment effects, moderation analyses, Bonferroni-Holm corrected p-values, effects by food group, and ClinicalTrials.gov reporting exports.
+**[swaps](https://github.com/rulm0000/swaps)** (Stata). Replication pipeline for a food-swap RCT. Participant characteristics, primary treatment effects, moderation analyses, Bonferroni-Holm corrected p-values, effects by food group, and ClinicalTrials.gov reporting exports.  
+Paper: [Grummon et al., *PLOS Medicine* (2026)](https://doi.org/10.1371/journal.pmed.1004847)
 
-**[social_media_wl](https://github.com/rulm0000/social_media_wl)** (Stata). Social media warning label trial. Mixed-effects models of perceived message effectiveness and awareness by warning topic, carryover sensitivity, moderator analyses, and CONSORT counts, plus a secondary study comparing AI-generated with human-selected priority messages.
+**[social_media_wl](https://github.com/rulm0000/social_media_wl)** (Stata). Social media warning label trial. Mixed-effects models of perceived message effectiveness and awareness by warning topic, carryover sensitivity, moderator analyses, and CONSORT counts, plus a secondary study comparing AI-generated with human-selected priority messages.  
+Paper: [Grummon et al., *JAMA Health Forum* (2026)](https://doi.org/10.1001/jamahealthforum.2026.3014)
 
 ### Survey epidemiology (BRFSS)
 
@@ -18,7 +20,8 @@ Public health researcher working across nutrition, tobacco, and health policy. M
 
 ### Evidence synthesis
 
-**[unhealthy-food-umbrella](https://github.com/rulm0000/unhealthy-food-umbrella)** (R, Python). Umbrella review of ultra-processed foods and health outcomes. Sensitivity analyses, heterogeneity assessment, and publication-ready forest plots.
+**[unhealthy-food-umbrella](https://github.com/rulm0000/unhealthy-food-umbrella)** (R, Python). Umbrella review of ultra-processed foods and health outcomes. Sensitivity analyses, heterogeneity assessment, and publication-ready forest plots.  
+Paper: [Ulm et al., *Child and Adolescent Psychiatry and Mental Health* (2026)](https://doi.org/10.1186/s13034-026-01079-4)
 
 ### Health economics
 
